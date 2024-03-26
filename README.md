@@ -19,5 +19,6 @@
 ![9](https://github.com/Sap0ff/TOIB_3/assets/146374157/fb0f90a6-c3e6-42b8-8692-8a9500b29198)
 ![10](https://github.com/Sap0ff/TOIB_3/assets/146374157/2e453fc2-a414-4238-b450-2555303f81e4)
 ## Настройка дополнительной двухфакторной аутентификации в настройках Keycloak и проверка срабатывния авторизации NextCloud
-<img width="673" alt="11" src="https://github.com/Sap0ff/TOIB_3/assets/146374157/1ed00b21-5892-4785-9345-100e95fab455">
-![12](https://github.com/Sap0ff/TOIB_3/assets/146374157/a3c57c6e-fb74-491c-8a5b-fe72be77ec45)
+<img width="673" alt="11" src="https://github.com/Sap0ff/TOIB_3/assets/146374157/1ed00b21-5892-4785-9345-100e95fab455">ㅤ
+![12](https://github.com/Sap0ff/TOIB_3/assets/146374157/58cd0e78-1ab3-4737-a297-67c8a248ee88)
+
